@@ -120,5 +120,5 @@ int main(){
     //statystyki_do_momentu_parzysta();
     //statystyki_do_momentu_nieparzysta();
     //statystyki_do_momentu_zero();
-    return 0;
+    return EXIT_SUCCESS;
 }
