@@ -10,7 +10,7 @@
 
 int main(){
     int n;
-    int suma;
+    int suma = 0;
     int liczba;
     
     // Wczytanie danych

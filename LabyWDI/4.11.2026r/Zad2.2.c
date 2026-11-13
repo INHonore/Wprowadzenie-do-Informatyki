@@ -10,7 +10,7 @@
 
 int main(){
     int liczba_n;
-    int suma;
+    int suma = 0;
     // Pobranie danych od użytkownika
     printf("Uzytkowniku! Podaj liczbe do ktorej dodawac: ");
     scanf("%d", &liczba_n);

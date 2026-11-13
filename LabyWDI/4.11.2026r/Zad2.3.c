@@ -11,7 +11,7 @@
 int main(){
     int liczba_n;
     int liczba_k;
-    int suma;
+    int suma = 0;
 
     // Pobranie zmiennych
     printf("Podaj liczbę N oznaczającą zakres, a nastepnie liczbe K do sprawdzania podzielnosci: ");

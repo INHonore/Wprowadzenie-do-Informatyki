@@ -12,7 +12,7 @@ int main(){
     int a;
     int b;
     int k;
-    int licznik;
+    int licznik = 0;
 
     // Wycztanie wartości
     printf("Podaj poczatek zakresu a, następnie koniec zakresu b i dzielnik k: ");
